@@ -1,0 +1,22 @@
+Diperlukan :
+
+Apache NetBeans IDE 12.6
+Java JDK 9
+
+========================== SIPER V1.0 ==========================
+
+1. Download file SIPER_Project.zip
+2. Extract file tersebut
+3. Buka file tersebut dengan NetBeans
+4. Run project tersebut
+
+===========================================================
+
+++ PETUNJUK SAAT MEMAKAI APLIKASI SIPER ++
+
+Login Admin
+~ email : admin@admin.com
+~ pass : adminsiper
+
+Login User
+* silahkan daftar akun dalam aplikasi dan login menggunakan akun tersebut
